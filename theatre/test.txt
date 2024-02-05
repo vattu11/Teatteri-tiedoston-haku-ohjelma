@@ -1,0 +1,4 @@
+Helsinki;KOM-teatteri;Rikkaruoho;Vilma Melasniemi;10
+Tampere;Tampereen Teatteri;Piaf;Pia Piltz;34
+Helsinki;KOM-teatteri;Rikkaruoho;Juho Milonoff;4
+Pori;Porin Teatteri;Evita;Heidi Rantakeisu;7
